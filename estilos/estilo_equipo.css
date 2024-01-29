@@ -1,0 +1,33 @@
+#equipo{
+    color: white;
+    padding: 20px;
+    background-color: #673ab7;
+    text-align: center;
+    margin: 50px;
+}
+#equipo-imagen{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#entrenador{
+    color: #673ab7;
+    text-align: center;
+}
+table#jugadores{
+    border-collapse: collapse;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    border: 3px solid black;
+}
+th{
+    padding: 10px;
+    background-color: #673ab7;
+    color: white;
+    border: 3px solid black;
+}
+td{
+    border: 3px solid black;
+}
